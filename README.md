@@ -7,5 +7,6 @@
 - JDK1.8
 - mysql5.7.36
 - idea 2020.2
+- Springboot
 
 #### 运行效果
